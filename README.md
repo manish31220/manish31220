@@ -11,15 +11,14 @@ ICFAI University, India
 Bachelors in Technology, majoring in Computer Science and Engineering (83%)
 
 
-Experience
-Java Developer (Intern)
-L&T Infotech, India
+Java Developer 
+CBRE
 
 Description:
 Labor Analytics is a platform providing intelligent market data about labor supply and demand in the North America region. The platform aggregates data from publicly available sources such as BLS, IPEDS, and providers like ESRI and LinkedIn in real-time through APIs. I actively contributed to the development of the Labor Analytics platform using Spring Boot, related components, and MongoDB. Key contributions include writing clean, efficient, and well-documented code in Java, demonstrating a solid understanding of microservices-based distributed and fault-tolerant applications.
 
 Junior Java Developer (Intern)
-Cognoshore Technologies, India
+L&T Infotech
 
 Description:
 Bike Rental is an application enabling users to book a variety of bikes with flexible prices and customizable features. As a developer, I contributed to implementing features and optimizing the backend for a seamless user experience. Emphasized clean, efficient code following industry standards, demonstrated expertise in microservices, and utilized MySQL for seamless data integration.
